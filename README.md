@@ -75,3 +75,11 @@ Documentation can get you a long way but sometimes you can need more.
 [Stackoverflow](https://stackoverflow.com/questions/tagged/python)
 
 
+## People to follow
+There are some people that is amazing at python you should follow if you are interested in the amazing work they do.
+
+[Kenneth Reitz](https://github.com/kennethreitz)
+
+[Kirk Byers](https://github.com/ktbyers)
+
+[Cisco DevNet](https://github.com/CiscoDevNet)
