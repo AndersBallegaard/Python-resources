@@ -6,8 +6,11 @@ This is not a complete list but i try to keep it updated with the most useful li
 To use python you need to know the language and there is some great resources for that avalible. most of these are avalible for free and all of them are in my mind great.
 
 [The offical documentation](https://docs.python.org)
+
 [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+
 [Learn python the hard way](https://learnpythonthehardway.org/)(paid)
+
 [Automate the borring stuff with python](https://automatetheboringstuff.com/)
 
 ## Automation
