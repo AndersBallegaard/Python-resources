@@ -68,7 +68,7 @@ Comments in the code is not really proper documentation so let's do it rigth. If
 ## Problem solving
 Documentation can get you a long way but sometimes you can need more.
 
-[The offical documentation](https://docs.python.org)(either for python the libary your having troble with)
+[The offical documentation](https://docs.python.org)(either for python or the libary your having troble with)
 
 [Google](https://www.google.com/)
 
@@ -86,3 +86,7 @@ There are some people that is amazing at python you should follow if you are int
 
 [Kirk Byers](https://github.com/ktbyers)
 
+
+## Stay in the loop
+There are always new and exciting things in the world of python. This is how i keep up without spending alot of time
+[Mybridge python](https://github.com/Mybridge/python-articles)(click watch)
