@@ -13,7 +13,7 @@ To use python you need to know the language and there is some great resources fo
 
 [Automate the borring stuff with python](https://automatetheboringstuff.com/)
 
-[Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+[Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)(paid)
 
 ## Automation
 I mostly use python for network automation but there is also other forms of automation I use python for.
@@ -24,7 +24,7 @@ I mostly use python for network automation but there is also other forms of auto
 
 [Cisco devnet](https://devnet.cisco.com)
 
-[Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+[Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)(paid)
 
 ## Web stuff + rest
 The future is alot of API's and web.
