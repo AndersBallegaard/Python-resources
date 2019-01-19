@@ -13,6 +13,8 @@ To use python you need to know the language and there is some great resources fo
 
 [Automate the borring stuff with python](https://automatetheboringstuff.com/)
 
+[Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+
 ## Automation
 I mostly use python for network automation but there is also other forms of automation I use python for.
 
@@ -21,6 +23,8 @@ I mostly use python for network automation but there is also other forms of auto
 [Automate the borring stuff with python](https://automatetheboringstuff.com/)
 
 [Cisco devnet](https://devnet.cisco.com)
+
+[Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 
 ## Web stuff + rest
 The future is alot of API's and web.
@@ -86,6 +90,9 @@ There are some people that is amazing at python you should follow if you are int
 
 [Kirk Byers](https://github.com/ktbyers)
 
+[Sentdex](https://www.youtube.com/user/sentdex)
+
+[Corey Schafer](https://www.youtube.com/user/schafer5)
 
 ## Stay in the loop
 There are always new and exciting things in the world of python. This is how i keep up without spending alot of time
